@@ -1,0 +1,3 @@
+[submodule "js/jquery.wrapChildren"]
+	path = js/jquery.wrapChildren
+	url = https://github.com/jorgecasar/jquery.wrapChildren.git

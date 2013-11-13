@@ -1,0 +1,23 @@
+/* blackberry10 Title Style v1.0.0 - 2013/11/13
+   http://jorgedelcasar.com
+   Copyright (c) 2013 Jorge del Casar (@jorgecasar) - Licensed MIT */
+.title {
+  text-transform: uppercase;
+  word-spacing: -0.1em;
+  font-family: "Slate Pro", sans-serif;
+  font-weight: normal;
+}
+.title span {
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  background: black;
+  line-height: 1.6em;
+  color: white;
+  margin: 0;
+  padding: 0.2em 0.05em 0.1em 0.5em;
+}
+
+.opposite .title span {
+  background: white;
+  color: black;
+}
